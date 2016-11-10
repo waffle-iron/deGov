@@ -20,6 +20,8 @@ modules:
   - simple_gmap
   - simple_sitemap
   - filter
+  - colorbox
+  - degov_colorbox
   - features
   - color_field
   - degov_eu_cookie_compliance
